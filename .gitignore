@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+.paper_digest_chroma/
+logs/
+AI-Intern-Assessment_E2CF564601.pdf
